@@ -1,4 +1,4 @@
-# PictureTools
+# Pillow Polish
 
 This Python script provides a set of image-processing tools using the Pillow (PIL) library. It allows users to perform various operations on images, including sharpening, grayscale conversion, rotation, resizing, cropping, and thumbnail creation. The script takes command-line arguments specifying the image file path and the desired image operation.
 
